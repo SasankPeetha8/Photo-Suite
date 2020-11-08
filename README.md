@@ -1,4 +1,4 @@
-# Uploader-for-Photos
+# Photo Suite
 This Projects is useful to bulk upload photographs to Google Photos by syncing the folders as albums directly. This Web Based Application is being under development using selenium which would be helpful to upload pictures in Large Quantities. The present script is able to login to your gmail account and list the albums along with number of  items in that particular album in form of dictionary.
 
 ![image](https://user-images.githubusercontent.com/30994244/96851440-a3658280-1475-11eb-9b67-311395f6b9ae.png)
